@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BlogApplication {
 
     public static void main(String[] args) {
+        //博客项目
+
         SpringApplication.run(BlogApplication.class, args);
     }
 
