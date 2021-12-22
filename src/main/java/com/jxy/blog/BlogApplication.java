@@ -8,7 +8,7 @@ public class BlogApplication {
 
     public static void main(String[] args) {
         //博客项目
-
+        //test
         SpringApplication.run(BlogApplication.class, args);
     }
 
